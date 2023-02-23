@@ -3,4 +3,9 @@ def summ():
     print(x)
 
 summ()
-    
+
+def subt():
+    x = 5 - 1
+    print(x)
+
+subt()
